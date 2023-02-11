@@ -3,4 +3,5 @@
 
 void Hello::print() {
     std::cout << "Hello World CMake Static Library!" << std::endl ;
+    
 }
